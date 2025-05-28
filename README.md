@@ -117,3 +117,7 @@ Rain remains the deadliest weather condition for aviation due to visibility issu
 
 ## Summary of Project Outcomes
 Ultimately, we see that the safest time to travel aligns with the seasonal patterns our ancestors once followed.
+
+## Use the Notebook for Analysis
+You can explore the full analysis and visualizations in the notebook:  
+[Colab Notebook](https://colab.research.google.com/drive/16HSGRKtP2pgcmIpMW-peZMX1er_10aol?usp=sharing)
