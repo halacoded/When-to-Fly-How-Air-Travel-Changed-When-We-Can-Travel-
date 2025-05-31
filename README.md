@@ -7,8 +7,6 @@ How air travel has evolved from being dependent on seasons to enabling year-roun
 **Problem:**  
 Plane crashes don’t happen evenly throughout the year—some months, times, and holidays are riskier than others. I analyzed 101 years of crash data to determine when flying was safest and when it was most dangerous.
 
-## Strategy for Solving the Problem
-*(One cell hidden)*  
 
 ## Detailed Analysis
 
